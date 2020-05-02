@@ -27,3 +27,5 @@ function guessinggame {
 
 	echo "Congratulations! You guessed the correct number of files."
 }
+
+guessinggame
